@@ -42,4 +42,6 @@ This project demonstrates how Infrastructure as Code can be used to provision an
 
 ## Outcome
 
-Successfully provisioned and managed isolated AWS S3 storage buckets for Development, Staging, and Production environments using Terraform's dynamic resource provisioning capabilities, enabling scalable, maintainable, and environment-aware cloud infrastructure management.
+Successfully provisioned and managed isolated AWS S3 storage buckets for Development, Staging, and Production environments using Terraform's dynamic resource provisioning capabilities, enabling scalable, maintainable, and environment-
+
+aware cloud infrastructure management.
